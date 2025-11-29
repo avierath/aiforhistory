@@ -4,52 +4,47 @@ title: Upgrade Summary
 ---
 
 ## Upgrade Summary
-- **From:** 0.4.0-beta
-- **To:** 0.4.2-beta
-- **Date:** 2025-11-14
-- **Automated changes:** 13
-- **Manual steps:** 6
+- **From:** 0.6.0-beta
+- **To:** 0.6.1-beta
+- **Date:** 2025-11-29
+- **Automated changes:** 5
+- **Manual steps:** 2
 
 ## Automated Changes Applied
 
-### Layouts (5 files)
+### Configuration (1 file)
 
-- [x] Updated index layout (site description link styling)
-- [x] Updated object layout (coordinate picker buttons)
-- [x] Updated story layout (mobile responsive features restored)
-- [x] Updated telar styles (mobile responsive features, gallery layout)
-- [x] Updated _layouts/index.html: Updated index layout (site description link styling)
+- [x] Updated _config.yml: version 0.6.1-beta (2025-11-29)
 
-### Styles (1 file)
+### Scripts (2 files)
 
-- [x] Updated assets/css/telar.scss: Updated CSS (mobile navbar, font sizes, title wrapping)
+- [x] Updated scripts/generate_iiif.py - IIIF generation script (EXIF orientation fix)
+- [x] Updated scripts/migrations/v050_to_v060.py - v0.5.0→v0.6.0 migration script (template pollution fix)
 
-### Scripts (1 file)
+### Documentation (1 file)
 
-- [x] Updated story JavaScript (mobile navigation, preloading, transitions)
+- [x] Updated README.md - README (bilingual version)
 
-### Documentation (2 files)
+### Other (1 file)
 
-- [x] Updated README (supporter acknowledgments)
-- [x] Updated README.md: Updated README (version 0.4.2-beta)
-
-### Other (4 files)
-
-- [x] Updated English language file with coordinate picker strings
-- [x] Updated Spanish language file with coordinate picker strings
-- [x] Updated CHANGELOG
-- [x] Updated .github/workflows/build.yml: Updated build workflow (smart IIIF detection with caching)
+- [x] Updated CHANGELOG.md - CHANGELOG (v0.6.1 release notes)
 
 ## Manual Steps Required
 
 Please complete these after merging:
 
-1. Update your upgrade workflow file (one-time fix to prevent config comment deletion): (1) Go to https://raw.githubusercontent.com/UCSB-AMPLab/telar/main/.github/workflows/upgrade.yml (2) Select all (Ctrl/Cmd+A) and copy (3) In your repository, navigate to .github/workflows/upgrade.yml (4) Click the pencil icon to edit (5) Select all existing content and delete it (6) Paste the new content (7) Scroll to bottom and click "Commit changes". This fixes a bug that was stripping documentation comments from your _config.yml file during upgrades. ([guide](https://raw.githubusercontent.com/UCSB-AMPLab/telar/main/.github/workflows/upgrade.yml))
-2. Run "bundle exec jekyll build" to test your upgraded site
-3. Test mobile responsive features on small screens (optional)
-4. Try the new coordinate picker buttons in object pages (optional)
-5. CRITICAL: The updated build.yml workflow must be merged/committed for IIIF caching to work. If using automated upgrade workflow: Review and MERGE the upgrade pull request - the new build workflow will not take effect until merged. If upgrading locally: COMMIT and PUSH .github/workflows/build.yml - the new workflow is not active until pushed to GitHub. Until the new workflow is active, the IIIF caching protection is not in effect.
-6. Test the smart IIIF detection: Make a content-only change (edit a story markdown file), push to GitHub, and verify the build workflow completes faster by skipping IIIF regeneration (optional)
+1. **If you use GitHub Pages:**
+
+No further actions needed. GitHub Actions will automatically regenerate IIIF tiles with the EXIF orientation fix when your site rebuilds.
+2. **If you work with your site locally:**
+
+If you have self-hosted images with EXIF orientation metadata (most smartphone photos taken in portrait mode), regenerate IIIF tiles to fix thumbnail orientation:
+
+`python3 scripts/generate_iiif.py --base-url YOUR_SITE_URL`
+
+(Replace YOUR_SITE_URL with your site's URL)
+
+You will see "Saving rotated image for IIIF processing" in the console output for affected images.
 
 ## Resources
 
