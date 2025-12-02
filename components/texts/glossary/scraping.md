@@ -1,6 +1,6 @@
 ---
 term_id: scraping
-title: "Scaraping"
+title: "Scraping"
 related_terms: scraping,scrape,scraped
 ---
 

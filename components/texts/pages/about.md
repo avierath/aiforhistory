@@ -2,31 +2,15 @@
 title: About
 ---
 
-# About Telar
+# About AI for Historians
 
-Telar (Spanish for 'loom') is a static site generator built on Jekyll that weaves together IIIF images, text, and layered contextual information into interactive digital narrative exhibitions. Telar uses the International Image Interoperability Framework (IIIF) to serve high-resolution images that can be zoomed, panned, and explored in detail. The framework combines these images with narrative text and layered contextual panels to create immersive storytelling experiences.
+Much of the academic literature on artificial intelligence is not geared towards historians, yet the discipline has come under more and more pressure to "modernize" and embrace a technological future. This project is meant to demystify LLMs (as the kinds of AI that are are at the core of scholarly debates for AI in research and the classroom) and hopefully artificial intelligence as a whole. Hopefully, when historians can be fully informed about the tools, consequences, and abilities of this kind of technology, they can make the decision that suits them and their research the best.
 
-<div class="alert alert-info" role="alert">
-<strong>Customize This Page</strong><br>
-You can edit this about page by modifying the <code>components/texts/pages/about.md</code> file in your repository. Add your own project description, credits, and acknowledgments to personalize your site.
-</div>
+The goal right now is to produce a useful glossary of terms to help me as I persue my own research on this matter. Moving forward, I have stories planned to explain how LLMs like ChatGPT work (starting with an understanding of computational linguistics), explore costs of using these kinds of generative AI, and assess the AI practices scientists suggest for historians and others working on digital humanities.
+
+
+
 
 ## Credits
 
-Telar is developed by Adelaida Ávila, Juan Cobo Betancourt, Santiago Muñoz, and students and scholars at the UCSB and UT Archives, Memory, and Preservation Labs.
-
-We gratefully acknowledge the support of the [Caribbean Digital Scholarship Collective](https://cdscollective.org), the [Center for Innovative Teaching, Research, and Learning (CITRAL)](https://citral.ucsb.edu/home) at the University of California, Santa Barbara, the [UCSB Library](https://library.ucsb.edu), the [Routes of Enslavement in the Americas University of California MRPI](https://www.humanities.uci.edu/routes-enslavement-americas), and the [Department of History of The University of Texas at Austin](https://liberalarts.utexas.edu/history/).
-
-For more information, visit the [Telar GitHub repository](https://github.com/UCSB-AMPLab/telar).
-
-Telar was built with:
-
-- [Jekyll](https://jekyllrb.com/) - Static site generator
-- [UniversalViewer](https://universalviewer.io/) - IIIF viewer
-- [Bootstrap 5](https://getbootstrap.com/) - CSS framework
-- [iiif-static](https://github.com/bodleian/iiif-static-choices) - IIIF tile generator
-
-It is based on [Paisajes Coloniales](https://paisajescoloniales.com/), and inspired by:
-
-- [Wax](https://minicomp.github.io/wax/) - Minimal computing for digital exhibitions
-- [CollectionBuilder](https://collectionbuilder.github.io/) - Static digital collections
+This project is heavily influenced by *Time*'s ["The A to Z of Artificial Intelligence"] (https://time.com/6271657/a-to-z-of-artificial-intelligence/) and IBM's ["The 2025 Guide to Machine Learning"] (https://www.ibm.com/think/machine-learning#605511093). Both try to make this information transparent to the average person, but I needed something more tailored for my research that blends the technical with the approachable. 
