@@ -1,7 +1,11 @@
 ---
-term_id: reducción
-title: "Reducción"
-related_terms: resguardo,muisca
+term_id: computational-linguistics
+title: "Computational Linguistics"
+related_terms: computationallinguistics,computationallinguistic
 ---
 
-The reducción policy forcibly relocated dispersed indigenous populations into planned settlements modeled on Spanish towns. This facilitated Spanish control, Catholic evangelization, and tribute extraction, while disrupting indigenous social structures and land use patterns.
+Computational linguistics is a branch of the science of linguistics where computer science techniques are applied to
+analyzing language and speech.
+
+This analysis can draw meaning from grammar rules (syntactic analysis) or from sentence context (semantic analysis)
+

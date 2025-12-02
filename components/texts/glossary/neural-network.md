@@ -1,13 +1,9 @@
 ---
-term_id: panel-es
-title: "Panel"
-related_terms: paso
+term_id: neural-network
+title: "Neural Network"
+related_terms: neuralnetwork, neuralnetworks
 ---
 
-Contenido desplegable que aparece sobre el visor cuando haces clic en "Learn more" u otros botones. Los paneles brindan contexto adicional sin salir del paso actual.
+A neural network is a [machine learning] algorithm derived from the function of neurons in the human brain. Neural networks are algorithms (or a series of algorithms) that work together to understand and judge information. 
 
-Telar admite dos capas de paneles:
-- **Capa 1**: se abre desde el paso principal
-- **Capa 2**: se abre dentro de la capa 1
-
-Esta divulgación progresiva permite que cada quien elija la profundidad con la que quiere seguir la historia.
+Data is input into a neural network and it in turn produces an output such as a prediction or classification of the data. The nodes between these “neurons” try to make the data more closely resemble the input data.

@@ -1,9 +1,8 @@
 ---
-term_id: paso
-title: "Paso"
-related_terms: historia, panel-es
+term_id: open-sourcing
+title: "Open Sourcing"
+related_terms: opensourcing, opensourced
 ---
 
-Una pantalla dentro de una historia de Telar que combina el texto narrativo a la izquierda con la vista de la imagen a la derecha. Cada paso puede enfocarse en una parte distinta de una imagen usando coordenadas (x, y, zoom).
+Open sourcing is the practice of making the code for these AI models freely available online for anyone to use or access. This is becoming less common as AI becomes more economically valuable, so companies privatize the code to protect their commercial interests. Simultaneously, this lowers the transparency of the industry while making sure people do not take advantage of the code to modify models and pose a risk to the company and public safety.
 
-Los pasos siguen el patrón Pregunta/Respuesta/Invitación: una pregunta atractiva, una respuesta breve y paneles opcionales por capas para profundizar.

@@ -1,7 +1,8 @@
 ---
-term_id: viceroyalty
-title: "Viceroyalty"
-related_terms: colonial-period
+term_id: data-labeling
+title: "Data Labeling"
+related_terms: datalabeling,dataannotation,datalabels
 ---
 
-A viceroyalty was the highest level of administrative division in the Spanish colonial empire. The viceroy served as the direct representative of the Spanish monarch, wielding executive, legislative, and judicial authority on his behalf.
+Data labeling for AI is the job of human intelligence. People need to annotate or label data before it is used to train artificial intelligence. Labelers need to describe the data (regardless of original format like a video) so that it can be understood by the machinelearning system.
+

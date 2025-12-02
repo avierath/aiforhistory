@@ -1,7 +1,12 @@
 ---
 term_id: llm
 title: "Large Language Model"
-related_terms: largelanguagemodel,LLM, LLMs
+related_terms: largelanguagemodel,LLM,LLMs
 ---
 
-The Colonial Period in the Americas began with Christopher Columbus's arrival in 1492 and lasted until the independence movements of the 19th century. This era was characterized by Spanish territorial expansion, the establishment of administrative structures, and profound cultural exchange between European, Indigenous, and African populations.
+Large language models (or LLMs) are softwares trained on large bodies of human language (see language corpus) for both analysis and prediction of speech and text. In the case of artificial intelligence, LLMs process written instructions and generate text. Much of this reflects practices in computational linguistics.
+
+Most of the language these models are trained on are sourced from literature or the internet (see scraping and data).
+
+Examples of LLMs include ChatGPT, Gemini, and Claude.
+

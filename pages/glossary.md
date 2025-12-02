@@ -4,4 +4,4 @@ title: Glossary
 permalink: /glossary/
 ---
 
-Key terms and concepts used in these stories.
+Key terms and concepts for historians when thinking about AI.
