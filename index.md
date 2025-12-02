@@ -7,13 +7,12 @@ objects_heading: "See the objects behind the stories"
 objects_intro: "Browse {count} objects featured in the stories."
 ---
 
-## Welcome to the Telar Demo Site
-This site showcases the features and capabilities of Telar (v.[{{ site.telar.version }}](https://github.com/UCSB-AMPLab/telar/releases/tag/v{{ site.telar.version }})). Build your own visual narrative exhibition by visiting:
+## Welcome to AI for Historians
 
-- Our **[GitHub repository](https://github.com/UCSB-AMPLab/telar)**, where you can copy the template to create your own project
-- The **[documentation site](https://telar.org/docs)**, where you can find guides and tutorials
+Much of the academic literature on artificial intelligence is not geared towards historians, yet the discipline has come under more and more pressure to "modernize" and embrace a technological future. This project is meant to demystify LLMs (as the kinds of AI that are are at the core of scholarly debates for AI in research and the classroom) and hopefully artificial intelligence as a whole. Hopefully, when historians can be fully informed about the tools, consequences, and abilities of this kind of technology, they can make the decision that suits them and their research the best.
 
-No installation is required: you can manage your content with Google Sheets and publish it for free on GitHub Pages.
+The goal right now is to produce a useful glossary of terms to help me as I persue my own research on this matter. Moving forward, I have stories planned to explain how LLMs like ChatGPT work (starting with an understanding of computational linguistics), explore costs of using these kinds of generative AI, and assess the AI practices scientists suggest for historians and others working on digital humanities.
 
-***Note:** To remove or replace this message, edit the `index.md` file in your repository.*
+This project is heavily influenced by *Time*'s ["A to Z of Artificial Intelligence"](https://time.com/6271657/a-to-z-of-artificial-intelligence/) and IBM's ["The 2025 Guide to Machine Learning"](https://www.ibm.com/think/machine-learning#605511093). Both try to make this information transparent to the average person, but I needed something more tailored for my research that blends the technical with the approachable. 
+
 
