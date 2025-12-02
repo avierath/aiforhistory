@@ -4,7 +4,7 @@ title: "OCR"
 related_terms: ocr
 ---
 
-OCR ()
+OCR (optical chatacter recognition) is
 
 
 
