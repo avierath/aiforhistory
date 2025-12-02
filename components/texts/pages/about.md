@@ -13,4 +13,4 @@ The goal right now is to produce a useful glossary of terms to help me as I pers
 
 ## Credits
 
-This project is heavily influenced by this *Time*'s [article](https://time.com/6271657/a-to-z-of-artificial-intelligence/) and IBM's ["The 2025 Guide to Machine Learning"](https://www.ibm.com/think/machine-learning#605511093). Both try to make this information transparent to the average person, but I needed something more tailored for my research that blends the technical with the approachable. 
+This project is heavily influenced by *Time*'s ["A to Z of Artificial Intelligence"](https://time.com/6271657/a-to-z-of-artificial-intelligence/) and IBM's ["The 2025 Guide to Machine Learning"](https://www.ibm.com/think/machine-learning#605511093). Both try to make this information transparent to the average person, but I needed something more tailored for my research that blends the technical with the approachable. 
