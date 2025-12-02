@@ -1,6 +1,6 @@
 ---
-term_id: markdown
-title: "Markdown"
+term_id: machine-learning
+title: "Machine Learning"
 ---
 
 Markdown is a lightweight markup language created in 2004 by [John Gruber](https://daringfireball.net/), in collaboration with [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz), with idea that plain text formatting should be readable as-is, even before being converted to HTML or other output formats. Unlike word processors that hide formatting codes or markup languages like HTML that clutter text with tags, Markdown uses simple, intuitive syntax that mimics how people naturally emphasize text in plain-text emails: asterisks for emphasis (`*italic*` or `**bold**`), hash marks for headings (`# Heading`), brackets for links (`[text](url)`), and dashes for lists.

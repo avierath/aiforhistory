@@ -1,7 +1,7 @@
 ---
-term_id: iiif-manifest
-title: "IIIF Manifest"
-related_terms: iiif, iiif-tiles
+term_id: language-corpus
+title: "Language Corpus"
+related_terms: languagecorpus, languagecorpora
 ---
 
 A IIIF manifest is a [JSON-LD](https://json-ld.org/) (JavaScript Object Notation for Linked Data) file that describes one or more images and their metadata according to the [IIIF Presentation API](https://iiif.io/api/presentation/) specification. The manifest serves as a "recipe" that tells IIIF-compatible viewers and tools, like Telar, what images are available, how they're organized, and how to display them.
