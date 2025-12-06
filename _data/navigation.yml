@@ -41,6 +41,18 @@ menu:
     titulo_es: El Uso
     url: /uses/
 
+  - title_en: Concerns
+    titulo_es: Preocupaciones
+    url: /concerns/
+
+  - title_en: History
+    titulo_es: Historia
+    url: /history/
+  
+  - title_en: How it Works
+    titulo_es: Como Funciona
+    url: /howitworks
+
 
   # Example: Add a custom page / Ejemplo: Agregar una página personalizada
   # - title_en: Credits
