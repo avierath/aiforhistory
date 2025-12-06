@@ -6,9 +6,9 @@ permalink: /about/
 
 # About AI for Historians
 
-Much of the academic literature on artificial intelligence is not geared towards historians, yet the discipline has come under more and more pressure to "modernize" and embrace a technological future. This project is meant to demystify LLMs (as the kinds of AI that are are at the core of scholarly debates for AI in research and the classroom) and hopefully artificial intelligence as a whole. Hopefully, when historians can be fully informed about the tools, consequences, and abilities of this kind of technology, they can make the decision that suits them and their research the best.
+Much of the academic literature on [[artificial-intelligence]] is not geared towards historians, yet the discipline has come under more and more pressure to "modernize" and embrace a technological future. This project is meant to demystify LLMs (as the kinds of AI that are are at the core of scholarly debates for AI in research and the classroom) and hopefully artificial intelligence as a whole. Hopefully, when historians can be fully informed about the tools, consequences, and abilities of this kind of technology, they can make the decision that suits them and their research the best.
 
-The goal right now is to produce a useful glossary of terms to help me as I persue my own research on this matter. Moving forward, I have stories planned to explain how LLMs like ChatGPT work (starting with an understanding of computational linguistics), explore costs of using these kinds of generative AI, and assess the AI practices scientists suggest for historians and others working on digital humanities.
+The goal right now is to produce a useful glossary of terms to help me as I persue my own research on this matter. Moving forward, I have stories planned to explain how [[llm|LLMs]] like ChatGPT work (starting with an understanding of [[computational-linguistics]]), explore costs of using these kinds of generative AI, and assess the AI practices scientists suggest for historians and others working on digital humanities.
 
 
 
