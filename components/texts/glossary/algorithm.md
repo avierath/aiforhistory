@@ -1,7 +1,7 @@
 ---
 term_id: algorithm
 title: "Algorithm"
-related_terms: algorithm, algorithms
+related_terms: algorithm, algorithms, algorithmic
 ---
 
 Broadly speaking, algorithms are rules for problem solving. It is most often used to describe the calculation process done by computers.
