@@ -37,6 +37,11 @@ menu:
     titulo_es: Bibliografìa
     url: /bibliography/
 
+  - title_e n: Uses
+    titulo_es: El Uso
+    url: /uses/
+
+
   # Example: Add a custom page / Ejemplo: Agregar una página personalizada
   # - title_en: Credits
   #   titulo_es: Créditos
