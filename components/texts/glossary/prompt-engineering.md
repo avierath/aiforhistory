@@ -1,11 +1,11 @@
 ---
-term_id: language-corpus
-title: "Language Corpus"
-related_terms: languagecorpus, languagecorpora
+term_id: prompt-engineering
+title: "Prompt Engineering"
+related_terms: promptengineering,prompting,prompt
 ---
 
-A language corpus is a collected body of spoken language transcribed for linguistic research. It is meant to be a representative of a kind of naturally-occurring language.
+Prompt engineering is essentially the act of programming a large language model through use. “Prompting” the LLM is how one interacts with it. How the user words a prompt is directly indicative of the response. 
 
-This is analogous to the language data LLMs are trained on.
+The general consensus about how to prompt AI is that the LLM functions best when complicated tasks are broken down into subtasks. This reduces the complexity which makes it easier to parse. The AI also learns from how a user phrases prompts to hedge what is an acceptable response or phrasing based on these implicit (or explicit) directions.
 
-Examples of language corpora include the Penn Treebank, Europarl, OpenSubtitles, and ParaCrawl. Each of these draw their language data from different sources.
+
