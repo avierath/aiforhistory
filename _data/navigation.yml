@@ -32,6 +32,10 @@ menu:
   - title_en: About
     titulo_es: Acerca de
     url: /about/
+    
+  - title_en: Bibliography
+    titulo_es: Bibliografìa
+    url: /bibliography/
 
   # Example: Add a custom page / Ejemplo: Agregar una página personalizada
   # - title_en: Credits
