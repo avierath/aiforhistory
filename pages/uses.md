@@ -6,4 +6,4 @@ permalink: /uses/
 
 # Uses
 
-The question of AI usage is ubiquitous in the current aacademic atmosphere.
+The question of AI usage is ubiquitous in the current academic atmosphere.
